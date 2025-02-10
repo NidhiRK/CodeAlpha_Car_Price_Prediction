@@ -34,7 +34,7 @@ cd car-price-prediction
 🔹 Install Dependencies                                                                                                                                                                 
 pip install -r requirements.txt                                                                                                                                                            
 🔹 Run the Model                                                                                                                                                                         
-python car_price_prediction.py
+python car_price_prediction.py                                                                                                                                                            
 📊 Visualizations                                                                                                                                                                        
 Actual vs Predicted Prices                                                                                                                                                                
 Residual Distribution                                                                                                                                                                     
