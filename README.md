@@ -35,16 +35,16 @@ cd car-price-prediction
 pip install -r requirements.txt                                                                                                                                                            
 🔹 Run the Model                                                                                                                                                                         
 python car_price_prediction.py
-📊 Visualizations
-Actual vs Predicted Prices
-Residual Distribution
-Feature Importance (Random Forest)
-🚀 Next Steps
-🔹 Hyperparameter tuning for better performance
-🔹 Trying advanced models like XGBoost and LightGBM
-🔹 Feature engineering improvements (e.g., extracting car brand, calculating car age)
+📊 Visualizations                                                                                                                                                                        
+Actual vs Predicted Prices                                                                                                                                                                
+Residual Distribution                                                                                                                                                                     
+Feature Importance (Random Forest)                                                                                                                                                         
+🚀 Next Steps                                                                                                                                                                             
+🔹 Hyperparameter tuning for better performance                                                                                                                                           
+🔹 Trying advanced models like XGBoost and LightGBM                                                                                                                                      
+🔹 Feature engineering improvements (e.g., extracting car brand, calculating car age)                                                                                                 
 
-📢 Connect with Me
-🔗 LinkedIn:(https://www.linkedin.com/in/nidhi-kushwaha-1b64b62a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-📧 Email: nidhirk1706@gmail.com
+📢 Connect with Me                                                                                                                                                                     
+🔗 LinkedIn:(https://www.linkedin.com/in/nidhi-kushwaha-1b64b62a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)                                     
+📧 Email: nidhirk1706@gmail.com                                                             
 
