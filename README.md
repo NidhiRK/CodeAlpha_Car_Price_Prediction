@@ -27,16 +27,13 @@ R² Score|	    0.85	        |        0.89 (Better)     |
 Conclusion:
 ✅ Random Forest performed significantly better than Linear Regression in all evaluation metrics!
 
-📌 Installation & Usage
-🔹 Clone the Repository
-
-git clone https://github.com/NidhiRK/CodeAlpha_Car_Price_Prediction.git
-cd car-price-prediction
-🔹 Install Dependencies
-
-pip install -r requirements.txt
-🔹 Run the Model
-
+📌 Installation & Usage                                                                                                                                                                 
+🔹 Clone the Repository                                                                                                                                                                
+git clone https://github.com/NidhiRK/CodeAlpha_Car_Price_Prediction.git                                                                                                                  
+cd car-price-prediction                                                                                                                                                                  
+🔹 Install Dependencies                                                                                                                                                                 
+pip install -r requirements.txt                                                                                                                                                            
+🔹 Run the Model                                                                                                                                                                         
 python car_price_prediction.py
 📊 Visualizations
 Actual vs Predicted Prices
